@@ -20,3 +20,5 @@
     * all of the sub menus were created with mobile-first design approach
     * for any of the icons that we use we can utilize react-icons 
   
+
+# video ended at 34.16 minute mark - 1:20minutes to complete.
